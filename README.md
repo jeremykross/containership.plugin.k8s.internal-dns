@@ -1,0 +1,1 @@
+# containership.plugin.k8s.internal-dns
